@@ -1,0 +1,59 @@
+/* Personal Website CSS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff2e6;
+    color:darkcyan;
+}
+
+header {
+    background-color:#663300;
+    color:darkgray;
+    text-align: center;
+    padding: 40px;
+}
+
+header h1 {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+nav {
+    background-color: #333;
+    text-align: center;
+    padding: 15px;
+}
+
+section {
+    background-color:white;
+    width: 80%;
+    margin: 25px;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+h2 {
+    color:#666699;
+    margin-bottom: 15px;
+}
+
+ul {
+    padding-left: 25px;
+}
+
+footer {
+    background-color: #24292f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
